@@ -17,3 +17,11 @@ cd>a.txt新建文本
 del a.txt删除文本
 
 cls清理屏幕
+
+## notepad++编写java程序
+定义文件名和类名必须相同
+
+编写完成后使用cmd命令javac name.java 编译成class文件
+
+使用java name.java 运行编译完成的文件
+
