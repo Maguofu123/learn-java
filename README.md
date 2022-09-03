@@ -4,3 +4,6 @@
 学习Markdown语法
 
 坚持写blog
+
+## day 2
+学习dos基本命令
