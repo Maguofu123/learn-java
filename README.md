@@ -1,5 +1,5 @@
 # learn-java
-100day-learn-java
+everyday-learn-java
 ## day 1
 学习Markdown语法
 
@@ -11,3 +11,5 @@
 ## day 3
 基本运算符
 位运算符
+
+基本命名原则
