@@ -31,8 +31,12 @@ float 在数字后面加F
 
 **基本类型**
 
-int, byte, char, boolen, short, float, long, double
+int, byte, char, boolean, short, float, long, double
 
 **引用数据类型**
 
 类，接口，数组
+
+### 类型转换
+![image](https://user-images.githubusercontent.com/91414286/188294981-79b0eb38-e51a-4b4b-aad8-da0917e1c1c8.png)
+
