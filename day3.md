@@ -40,3 +40,6 @@ int, byte, char, boolean, short, float, long, double
 ### 类型转换
 ![image](https://user-images.githubusercontent.com/91414286/188294981-79b0eb38-e51a-4b4b-aad8-da0917e1c1c8.png)
 
+### 变量命名规范
+![image](https://user-images.githubusercontent.com/91414286/188296006-3cec2cd1-3446-4d0c-b96a-3716e90c71b6.png)
+
