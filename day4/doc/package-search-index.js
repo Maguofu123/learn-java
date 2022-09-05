@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.learn.doc"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
