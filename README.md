@@ -22,16 +22,8 @@ doc文档创建
 
 Scanner输入数据
 
-三种结构：
-sequential structure,
-selective structure, 包含if结构和switch结构
-cyclic structure，包含while, do while, for循环结构
+三种结构
 
-**关于输出**
+方法
 
-默认为println输出后换行，print输出后不换行
-
-\t制表符， \n换行
-
-"" + 连接字符串，并将后面转化为字符串
-+ "" 先运算后连接字符串
+递归
