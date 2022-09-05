@@ -15,3 +15,7 @@ everyday-learn-java
 基本命名原则
 
 ## day 4
+包机制
+
+doc文档创建
+`javadoc`
