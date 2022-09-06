@@ -25,3 +25,6 @@
 数组本身就是对象，数组对象保存在堆中
 
 二维数组，多维数组使用
+
+*arrays类*
+`fill`, `sort`, 'equals`, `binarySearch`
