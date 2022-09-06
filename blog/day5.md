@@ -27,4 +27,4 @@
 二维数组，多维数组使用
 
 *arrays类*
-`fill`, `sort`, 'equals`, `binarySearch`
+`fill`, `sort`, `equals`, `binarySearch`
