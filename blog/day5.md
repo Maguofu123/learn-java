@@ -28,3 +28,20 @@
 
 *arrays类*
 `fill`, `sort`, `equals`, `binarySearch`
+
+**冒泡排序**
+两层循环遍历
+时间复杂度O(n2)
+外层a.length-1,内层a.length-1-i
+比较相邻两数字大小，判断交换
+
+**稀疏数组**
+*压缩*
+根据![image](https://user-images.githubusercontent.com/91414286/188551027-e59bc67a-0f37-4044-9aae-c1fe27bd53e2.png)
+
+
+*存放*
+使用一个数组存放压缩后的数组
+
+*还原*
+打印出存放在数组里的数组
