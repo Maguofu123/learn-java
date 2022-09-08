@@ -62,10 +62,32 @@
 
 
 作用：
-    1.约束
-    2.定义一些方法，让不同的人实现
-    3.public abstract
-    4.public static final
-    5.接口不能被实例化，没有构造方法
-    6.可以实现多个接口
-    7.必须要重写接口中的方法
+1. 约束  
+2. 定义一些方法，让不同的人实现
+3. public abstract
+4. public static final
+5. 接口不能被实例化，没有构造方法
+6. 可以实现多个接口
+7. 必须要重写接口中的方法
+
+**内部类**
+内部类可以调用外部属性
+
+一个java文件中可以有多个class类，但只能有一个public class类
+
+
+![image](https://user-images.githubusercontent.com/91414286/189042517-5d113aff-e49c-4a4f-8341-2c759ecc45ef.png)
+
+
+### 异常
+- 非运行时异常
+- 运行时异常
+- 错误ERROR
+
+*捕获和抛出异常*
+- try catch必须要， finally可以没有
+- 假设在方法中处理不了异常，则方法上抛出，用throws
+- 方法中主动抛出用throw
+
+自定义异常（继承Exception类）
+
